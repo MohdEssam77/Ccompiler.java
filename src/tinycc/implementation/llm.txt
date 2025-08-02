@@ -1,0 +1,21 @@
+I did the first part of the project only (task 1 AST).
+I used Chat GPT while studying the compiler chapter from the book. In the same chat, i attached the project description
+and wrote the following prompt.
+
+Based on the the chapter compiler that you explained me and the project description attached, explain me task 1 AST.
+Explain the task and what am expected to build (don't impplement anything).
+
+Then after getting the response and reading and understanding the task, I started the implementation of the classes.
+I implemented most of them my own. When even some error occurs then I use Chat GPT again to see what causes it and how to fix it.
+
+As I saw that the question was easy as we are just overriding toString() but it needed a lot of typing so I gave the classes I implemented and asked Chat GPT
+to help me implementing other nodes of the AST. I also got Chat GPT help in implementing ASTFactory interface.
+
+
+Chat GPT
+I am currently doing the first task in this project (attached is the project description). I am in the beginning, doing the *3 Abstract syntax tree and output* task which is the first task of the project. I want you to help in this task. Read the project description carefully and tell me how can I approach this task. Write pseudocode if possible. 
+If you need me to provide you classes already there in the code given, let me know.
+then follow up questions for example when I failed some tests when i first pushed the project and it helps in finding and fixing the error.
+Didn't use any coding assistants. I mentioned comments in some of the files/classes that I used Chat GPT there.
+
+I just did the first part of the project. Tried to do second part but saw that it needs a lot of time.
